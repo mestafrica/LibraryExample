@@ -1,2 +1,4 @@
-out/
-.idea/
+#Project
+workspace.xml
+tasks.xml
+out/*
